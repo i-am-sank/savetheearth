@@ -9,6 +9,6 @@ to know more about [captain america](https://en.wikipedia.org/wiki/Captain_Ameri
 To save earth from **thanos** the supervillain ,Having acquired the Power Stone, one of the six Infinity Stones, from the planet Xandar, Thanos and his lieutenants—Ebony Maw, Cull Obsidian, Proxima Midnight, and Corvus Glaive—intercept the spaceship carrying the survivors of Asgard's recent destruction.As they extract the Space Stone from the Tesseract, Thanos subdues Thor, overpowers Hulk, and kills Loki. Heimdall sends Hulk to Earth using the Bifröst before being killed. Thanos departs with his lieutenants and destroys the ship.
 
 captain america has made a plan to confront thanos and his army... 
-To see 
+To see [plan](https://github.com/i-am-sank/savetheearth/tree/plan)
 
 
